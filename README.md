@@ -2,6 +2,8 @@
 
 This project is an Online Calculator implemented using Spring Boot and Gradle.
 
+Before getting started, if you wish to read about what spring is, spring boot, JDK, beans, and MVC. Read my [blog](https://medium.com/@ksheer.agrawal/java-spring-framework-db317cb3e789) explicitly made for this project.
+
 ## IntelliJ IDEA Setup
 
 ### Installation
