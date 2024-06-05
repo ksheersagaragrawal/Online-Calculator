@@ -11,7 +11,7 @@ Before getting started, if you wish to read about what spring is, spring boot, J
 1. **Download IntelliJ IDEA Ultimate**: [Download Link](https://www.jetbrains.com/products/compare/?product=idea&product=idea-ce)
    - IntelliJ IDEA Ultimate provides advanced features, including full support for Spring framework.
 
-2. **Install Required Plugins**:
+2. **Install Required Plugins**: [Video Link](https://www.youtube.com/watch?v=o9QlMyfSX1o)
    - Open IntelliJ IDEA.
    - Go to `File` -> `Settings` -> `Plugins`.
    - Search and install the following plugins:
